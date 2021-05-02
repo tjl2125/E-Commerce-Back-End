@@ -1,4 +1,6 @@
 # E-Commerce-Back-End
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 * [Title](#Title)
 * [Description](#Description)
 * [Usage](#Usage)
@@ -13,6 +15,7 @@
 
 # Description 
 This application is the back-end component for an e-commerce site. It is a working Express.js API that uses Sequelize and interacts with a MySQL database.
+From Express, uses GET, POST, PUT, and DELETE. 
 
 # Usage 
 It is necessary to install all of the dependencies and after ensuring the package.json is in the root directory. Do this by:
