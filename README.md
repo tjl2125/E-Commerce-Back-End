@@ -30,7 +30,7 @@ After that start the process by typing into the terminal
 ```
 npm start
 ```
-![Demo-video](./assets/media/Demo-video.mp4)
+![Demo-video](https://drive.google.com/file/d/1cwl2fzY4Wzo8s6m0c6V3TGcMAF3uzn9x/view)
 
 # Installation 
 Clone the repository from Github. Open the integrated terminal. Make sure the package.json is present. Install the necessary dependencies through npm i. Also create your own .env file and fill it out with your own information in this format: 
