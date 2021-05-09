@@ -11,8 +11,6 @@
 * [Github](#Github)
 * [Email](#Email)
 
-# Title: Team-Profile-Generator
-
 # Description 
 This application is the back-end component for an e-commerce site. It is a working Express.js API that uses Sequelize and interacts with a MySQL database.
 From Express, uses GET, POST, PUT, and DELETE. 
